@@ -1,0 +1,20 @@
+{
+  "name": "gauges-browserstats-example",
+  "version": "1.0.0",
+  "description": "An example module show how to integrate actual browser statistics from Gaug.es into your CSS processing pipeline",
+  "author": "James Paden <james@expectedbehavior.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/expectedbehavior/gauges-browserstats-example.git"
+  },
+  "devDependencies": {
+    "autoprefixer": "^6.3.1",
+    "browserslist": "^1.1.1",
+    "gulp": "^3.9.0",
+    "gulp-postcss": "^6.0.1",
+    "gulp-util": "^3.0.7",
+    "request": "^2.69.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "license": "MIT"
+}
